@@ -1,0 +1,30 @@
+{
+  "greeting": "Hey",
+  "name": "Pragya",
+  "greetingText": "I really like your vibe, but Rooh suits your sweet soul even better! ✨",
+  "wishText": "May your life be filled with endless smiles, pure happiness, and magical moments, Rooh! 🌸💖",
+  "imagePath": "img/pragya.jpg",
+  "text1": "It's your birthday, Pragya!!! :D",
+  "textInChatBox": "Wishing the sweetest Pragya (our lovely Rooh) the absolute happiest of birthdays! May all your dreams turn into reality this year... 🎉🎂✨",
+  "sendButtonLabel": "Send 💌",
+  "text2": "I wanted to give you a special surprise, Pragya",
+  "text3": "So I thought about it for a long time...",
+  "text4": "I realized, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because, Rooh,",
+  "text5Content": "You are truly special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday Pragya!",
+  "outroText": "Hope you loved this little surprise, Rooh!",
+  "replayText": "Click here if you want to watch the magic again!",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "'Outfit', sans-serif",
+      "path": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&display=swap"
+    }
+  ]
+}
